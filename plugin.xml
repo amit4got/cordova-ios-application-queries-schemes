@@ -8,7 +8,7 @@
     <description>IOS LSApplicationQueriesSchemes Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,device</keywords>
-    <repo>https://github.com/chancezeus/cordova-ios-application-queries-schemes.git</repo>
+    <repo>https://github.com/amit4got/cordova-ios-application-queries-schemes.git</repo>
     <platform name="ios">
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
@@ -23,6 +23,7 @@
                 <string>whatsapp</string>
                 <string>yelp</string>
                 <string>youtube</string>
+                <string>com-digipos-mPOS-integration</string>
             </array>
         </config-file>
     </platform>
